@@ -42,7 +42,7 @@ linkedin_username: eyeckim
 # Using more than one of these may cause issues with reporting
 # gtm: "GTM-0000000"
 # gtag: "UA-00000000-0"
-# google_analytics: "UA-00000000-0"
+google_analytics: "UA-42610718-0"
 
 # About Section
 # about_title: About Me
@@ -57,13 +57,13 @@ content:
     layout: list # Type of content section (list/text)
     content:
       - layout: top-middle
-        title: Integrated Nonlinear Photonics
+        title: Integrated Nonlinear Photonics (PhD project)
         link: https://orbit.dtu.dk/en/publications/integrated-nonlinear-photonics-theory-design-and-fabrication
         # link_text: Project Website
-        additional_links:
-          - title:  sproogen/modern-resume-theme
-            icon: fab fa-github
-            url: github.com/sproogen/modern-resume-theme
+        #additional_links:
+        #  - title:  sproogen/modern-resume-theme
+        #    icon: fab fa-github
+        #    url: github.com/sproogen/modern-resume-theme
           # - title:  Github page for project (eg. sproogen/modern-resume-theme)
           #   icon: fab fa-github
           #   url: Link to project (eg. sproogen.github.io/modern-resume-theme)
