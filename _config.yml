@@ -8,7 +8,7 @@ version: 2
 # Personal info
 name: Chanju Kim
 title: Postdoctoral researcher @ DTU Fotonik
-email: ckim@fotonik.dtu.dk / light.spontaneous@gmail.com
+email: ckim@fotonik.dtu.dk
 website: lightckim.github.io
 
 # Dark Mode (true/false/never)
@@ -32,8 +32,8 @@ orcid_username: 0000-0001-8011-1904
 # Additional icon links
 additional_links:
 - title: Google scholar link
-icon: fas fa-flask
-#  url: https://www.itsgoingto.be
+  icon: fab fa-flask
+  url: https://scholar.google.com/citations?user=Xg8JlCsAAAAJ&hl=en
 # - title: another link
 #   icon: font awesome brand icon name (eg. fab fa-twitter) (https://fontawesome.com/icons?d=gallery&m=free)
 #   url: Link url (eg. https://google.com)
