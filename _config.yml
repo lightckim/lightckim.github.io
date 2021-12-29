@@ -27,12 +27,12 @@ linkedin_username: eyeckim
 # pinterest_username: jekyll
 # youtube_username: globalmtb
 # googleplus_username: +jekyll
-# orcid_username: 0000-0000-0000-0000
+orcid_username: 0000-0001-8011-1904
 
 # Additional icon links
-#additional_links:
-#- title: itsgoingto.be
-#  icon: fas fa-globe
+additional_links:
+- title: Google scholar link
+icon: fas fa-flask
 #  url: https://www.itsgoingto.be
 # - title: another link
 #   icon: font awesome brand icon name (eg. fab fa-twitter) (https://fontawesome.com/icons?d=gallery&m=free)
